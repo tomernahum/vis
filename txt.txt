@@ -1,0 +1,4 @@
+want to put it under ttools.io/blog
+need to get a pipeline out of vite build into there (and make there)
+
+could just copy paste to within astro
